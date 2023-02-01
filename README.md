@@ -23,7 +23,7 @@ this repository or API for a best user experience of APIs.
 //For 𝗰𝗮𝘀𝗲 based script
 
 case '<command-name>':{
-let couplepp = await fetchJson('https://github.com/PikaBotz/important-API/blob/main/couple-API/couplepp.json')
+let couplepp = await fetchJson('https://raw.githubusercontent.com/PikaBotz/important-API/main/couple-API/couplepp.json')
 let random = couplepp[Math.floor(Math.random() * couplepp.length)]
 bot.sendMessage(m.chat, { image: { url: random.male }, caption: `Male picture.` }, { quoted: m })
 bot.sendMessage(m.chat, { image: { url: random.female }, caption: `Female picture` }, { quoted: m })
