@@ -11,6 +11,20 @@ this repository or API for a best user experience of APIs.
 ##
 
 # For WhatsApp bot usage 👇🏻
+# `Random Manga (json)`
+
+<p align="center">
+<img src="https://github.com/PikaBotz/My_Personal_Space/blob/main/Images/API_pics/manga.png" alt="Pika" height= "auto" width="auto"/>
+
+##
+### 🌟 Random manga by [pika](https://github.com/PikaBotz/)
+```bash
+//For 𝗰𝗮𝘀𝗲 based script
+
+<----Working on this--->
+```
+
+##
 # `Couplepp (json/API)`
 
 <p align="center">
