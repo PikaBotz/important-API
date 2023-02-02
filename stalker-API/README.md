@@ -1,7 +1,7 @@
 # `How to use? 👇🏻`
 ## GitHub stalker by [zahwazein](https://github.com/zahwazein/)
 ```bash
-\\ for 𝗰𝗮𝘀𝗲 based script 
+\\for 𝗰𝗮𝘀𝗲 based script 
 
 case '<command-name>':{
      if (!text) return reply("Please enter a valid username")
@@ -27,3 +27,4 @@ Account Url : ${gitStalker.result.url}`
      await bot.sendMessage(m.chat, gitResults, m)
       }
       break
+```
