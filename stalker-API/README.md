@@ -24,7 +24,7 @@ Company : ${gitStalker.result.company}
 Twitter : ${gitStalker.result.twitter_username}
 Email : ${gitStalker.result.email}
 Account Url : ${gitStalker.result.url}`
-     await bot.sendMessage(m.chat, gitResults, m)
+     await bot.sendText(m.chat, gitResults, m)
       }
       break
 ```
